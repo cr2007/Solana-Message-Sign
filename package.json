@@ -1,5 +1,5 @@
 {
-  "name": "solana-bot",
+  "name": "solana-message-sign",
   "version": "0.1.0",
   "private": true,
   "scripts": {
