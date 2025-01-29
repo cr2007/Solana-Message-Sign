@@ -1,6 +1,6 @@
 # Solana Message Signing
 
-A basic client-based tool that allows you to sign any message with the Solana keys.
+A basic client-based tool that allows you to sign any message with the Solana key-pairs.
 
 Reference: https://solana.com/developers/cookbook/wallets/sign-message
 
