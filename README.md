@@ -1,5 +1,7 @@
 # Solana Message Signing
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cr2007/Solana-Message-Sign)
+
 A basic client-based tool that allows you to sign any message with the Solana key-pairs.
 
 Reference: https://solana.com/developers/cookbook/wallets/sign-message
